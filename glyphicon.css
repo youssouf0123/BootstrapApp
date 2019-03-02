@@ -1,0 +1,14 @@
+.box{
+  font-size: 1.2em;
+  text-align: center;
+  background: #f4f4f4;
+  padding: 20px;
+  margin-left: 70px;
+}
+.glyphicon{
+  font-size: 60px;
+  text-align: center;
+}
+.jumbotron{
+  text-align: center;
+}
